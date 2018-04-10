@@ -1,0 +1,11 @@
+{
+    "AiryDisk2D": {
+        "amplitude": 0.896,
+        "radius": 5.15
+    },
+    "Gaussian2D": {
+        "amplitude": 0.104,
+        "x_stddev": 4.86,
+        "y_stddev": 4.86
+    }
+}
