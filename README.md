@@ -8,6 +8,7 @@ Resources:
 
 * [Image-to-Image Translation with Conditional Adversarial Nets (P. Isola et al.)](https://phillipi.github.io/pix2pix/)
 * [pix2pix-tensorflow (C. Hesse)](https://github.com/affinelayer/pix2pix-tensorflow)
+* [PSFGAN: a generative adversarial network system for separating quasar point sources and host galaxy light (D. Stark et al.)](https://arxiv.org/abs/1803.08925)
 
 Example data:
 
