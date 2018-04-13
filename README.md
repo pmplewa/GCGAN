@@ -42,3 +42,5 @@ python pix2pix.py \
   --input_dir=data/val \
   --output_dir=val_results
 ```
+
+![](graph.png)
